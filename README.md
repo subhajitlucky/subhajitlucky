@@ -19,8 +19,8 @@ I code.
 ![](https://komarev.com/ghpvc/?username=subhajitlucky)
 
 
-![subhajitlucky's Stats](https://github-readme-stats.vercel.app/api?username=subhajitlucky&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![subhajitlucky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhajitlucky&theme=radical&hide_border=true)
+![subhajitlucky's Stats](https://github-readme-stats.vercel.app/api?username=subhajitlucky&theme=radical&show_icons=true&hide_border=true&count_private=true)  
+![subhajitlucky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhajitlucky&theme=radical&hide_border=true)  
 ![subhajitlucky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhajitlucky&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ## Connect with Me:
