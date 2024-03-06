@@ -26,6 +26,8 @@ I code.
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-Subhajit-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhajitlucky/)](https://www.linkedin.com/in/subhajitlucky/)
 [![Twitter](https://img.shields.io/badge/-Subhajit-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/subhajitlucky)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Subhajit-Yellow?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/subhajitlucky)
+[![LeetCode](https://img.shields.io/badge/Leetcode-Subhajit-Orange?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/subhajitlucky/)
 
 ## Projects
 <!-- 1. **Project Name 1**
