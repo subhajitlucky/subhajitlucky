@@ -39,15 +39,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhajitlucky&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajitlucky&layout=compact&langs_count=8&theme=radical"/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhajitlucky&theme=radical)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=subhajitlucky&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=subhajitlucky&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhajitlucky&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
