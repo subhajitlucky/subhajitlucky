@@ -65,6 +65,13 @@
 
 </div>
 
+## ❤️ Support My Work
+
+If my open-source contributions or bug fixes helped you, you can support my work here:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Support-blue?style=flat-square\&logo=paypal\&logoColor=white)](https://paypal.me/subhajitlucky)
+
+
 ---
 
 <div align="center">
