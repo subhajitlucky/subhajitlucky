@@ -1,80 +1,72 @@
-<div align="center">
+# Subhajit Pradhan
 
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+Software engineer building full-stack products, AI workflows, and blockchain interfaces.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=440&lines=I+am+Subhajit)](https://git.io/typing-svg)
+- Portfolio: https://subhajitpradhan.vercel.app
+- GitHub: https://github.com/subhajitlucky
+- LinkedIn: https://www.linkedin.com/in/subhajitlucky
+- Email: subhajitpradhan310@gmail.com
+- Location: Odisha, India
 
-![Saitama](https://github.com/subhajitlucky/subhajitlucky/blob/main/Hlrj.gif?raw=true)
+## Current Focus
 
-![Profile Views](https://komarev.com/ghpvc/?username=subhajitlucky&style=flat&color=blue)
+I work across product UX, backend APIs, data-backed workflows, AI integrations, and safer wallet-driven interfaces. I prefer projects that can be inspected through source code, architecture notes, tradeoffs, and live demos.
 
-*"Life goes on, Make it a better one"* ✨
+## Selected Work
 
-</div>
+### CSCosmos
 
----
+Curated computer science learning platform with 172 planned modules, 34 live microsites, and 8 engineering domains.
 
-## 🛠️ Tech Stack
+- Live: https://cscosmos.vercel.app
+- Source: https://github.com/subhajitlucky/cscosmos
+- Stack: React, TypeScript, Vite, Tailwind CSS, React Router
 
-<div align="center">
+### IntentPay
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+AI-assisted Web3 transaction prototype that separates natural-language intent planning from explicit wallet review and blockchain execution.
 
-**Frameworks & Databases**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+- Source: https://github.com/subhajitlucky/intentpay
+- Stack: Node.js, Express, React, Ethers.js, LLM APIs
 
-</div>
+### Tarka Sabha
 
+Multi-agent AI debate platform with configurable personas, provider routing, encrypted API key storage, and inspectable debate state.
 
+- Live: https://tarkasabha.vercel.app
+- Source: https://github.com/subhajitlucky/tarkaSabha
+- Stack: Next.js, TypeScript, PostgreSQL, Prisma
 
-## 📊 GitHub Analytics
+### CampusHelper
 
-<div align="center">
+Full-stack lost-and-found platform with authentication, image uploads, searchable item reports, and PostgreSQL-backed data flows.
 
-![](https://github-readme-stats.vercel.app/api?username=subhajitlucky&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=subhajitlucky&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhajitlucky&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- Live: https://campushelper.vercel.app
+- Source: https://github.com/subhajitlucky/campushelper
+- Stack: Next.js, TypeScript, Prisma, PostgreSQL
 
-</div>
+### Rate Limiting Visualizer
 
-## 📈 Contribution Graph
+Interactive visualizer for fixed-window, sliding-window, token-bucket, and leaky-bucket rate limiting algorithms.
 
-<div align="center">
+- Live: https://ratelimiting.vercel.app
+- Source: https://github.com/subhajitlucky/ratelimiting-visualizer
+- Stack: TypeScript, React
 
-[![Subhajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhajitlucky&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Technical Range
 
-</div>
+- Languages: TypeScript, JavaScript, Python, Go, Rust, SQL, Java, C++
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express, REST APIs, GraphQL
+- Data: PostgreSQL, MongoDB, MySQL, Prisma
+- AI: OpenAI API, Anthropic API, Gemini API, AI SDK, LLM workflows
+- Blockchain: Ethereum, ICP, Solidity, Hardhat, Ethers.js, Web3.js
+- DevOps: Docker, GitHub Actions, Linux
 
-## 🤝 Connect with Me
+## What I Care About
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajitlucky/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/subhajitlucky)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/subhajitlucky)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/subhajitlucky/)
-
-</div>
-
-## ❤️ Support My Work
-
-<div align="center">
-
-If my open-source contributions or bug fixes helped you, you can support my work here:
-
-[![PayPal](https://img.shields.io/badge/PayPal-Support-blue?style=flat-square\&logo=paypal\&logoColor=white)](https://paypal.me/subhajitlucky)
-
-</div>
----
-
-<div align="center">
-</div>
+- Clear product flows over decorative UI.
+- Server-rendered and crawlable content where discoverability matters.
+- Backend boundaries that keep credentials, keys, and irreversible actions safe.
+- README files and case studies that explain architecture, tradeoffs, and limitations.
+- Interfaces that are readable, accessible, and fast.
